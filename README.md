@@ -6,7 +6,7 @@
 - エンジニア組織における組織づくりに興味があります。
 
 ## 📝職務経歴書
-- [Curriculum Vitae 職務経歴書](https://github.com/kainoika/kainoika/wiki/Curriculum-Vitae-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8)
+- [Curriculum Vitae 職務経歴書](https://github.com/kainoika/kainoika/wiki/Curriculum-Vitae-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8(%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E5%90%91%E3%81%91))
 
 ## ⚡制作物
 - [geica check!](https://geicacheck.com/)
