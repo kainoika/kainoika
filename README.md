@@ -13,7 +13,7 @@
 - コーヒー
 - 旅行
 - 演劇を観ること
-- イラストを描くこと(二次創作中心)
+- イラストを描くこと
 
 <!--
 **kainoika/kainoika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
