@@ -8,6 +8,10 @@
 ## 📝職務経歴書
 - [Curriculum Vitae 職務経歴書](https://github.com/kainoika/kainoika/wiki/Curriculum-Vitae-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8(%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B%E5%90%91%E3%81%91))
 
+## ブログ
+- [note](https://note.com/kainoika8)
+- [しずかなインターネット](https://sizu.me/kainoika)
+
 ## 💖好きなこと・趣味
 - カードゲーム(マジック・ザ・ギャザリング)
 - コーヒー
